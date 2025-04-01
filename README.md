@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About the project
 
-- <p>A collection of Python scripts I've written to deepen my knowledge of both the language and its applications. Python is widely used in cybersecurity, and this repository covers a broad range of topics.</p>
+- <p>A collection of Python scripts I've written to deepen my knowledge of both the language and its applications. Python is widely used in cybersecurity, and this repository covers a broad range of topics. This an ongoing project.</p>
 
 ## 🚀 Technologies
 
