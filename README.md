@@ -16,8 +16,6 @@
 ## 🚀 Technologies
 
 - [Python](https://www.java.com/en/)
-- [SpigotMC API](https://www.spigotmc.org/)
-- [Maven](https://maven.apache.org/)
 
 ## 💻 Getting started
 
